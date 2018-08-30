@@ -47,6 +47,7 @@
 		310DE2C320D01972006B1ADE /* 长乐路UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "长乐路UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		310DE2C720D01972006B1ADE /* ___UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "___UITests.swift"; sourceTree = "<group>"; };
 		310DE2C920D01972006B1ADE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		310DE2D820D02259006B1ADE /* JZG.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = JZG.gpx; path = ../JZG.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		310DE29B20D01970006B1ADE = {
 			isa = PBXGroup;
 			children = (
+				310DE2D820D02259006B1ADE /* JZG.gpx */,
 				310DE2A620D01971006B1ADE /* 长乐路 */,
 				310DE2BB20D01972006B1ADE /* 长乐路Tests */,
 				310DE2C620D01972006B1ADE /* 长乐路UITests */,
@@ -433,6 +435,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L7F3SR98C5;
 				INFOPLIST_FILE = "长乐路/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -451,6 +454,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = L7F3SR98C5;
 				INFOPLIST_FILE = "长乐路/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

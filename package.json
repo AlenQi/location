@@ -1,7 +1,6 @@
 {
   "name": "location",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/AlenQi/location.git"
   },
-  "author": "",
+  "author": "alenqi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlenQi/location/issues"
   },
-  "homepage": "https://github.com/AlenQi/location#readme"
+  "homepage": "https://github.com/AlenQi/location#readme",
+  "description": ""
 }
